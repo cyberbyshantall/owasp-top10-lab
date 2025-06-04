@@ -1,5 +1,3 @@
-# owasp-top10-lab
-
 # OWASP Top 10 Practice Lab
 
 ## Overview
