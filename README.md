@@ -8,7 +8,7 @@ This repository contains my hands-on practice solving security challenges from t
 - Login Bypass Challenge  
 - Error Handling Challenge  
 - DOM XSS Challenge
-- ![DOM XSS Challenge Screenshot](screenshots/dom-xss.png)
+- ![DOM XSS Challenge](screenshots/dom-xss.png)
 
 
 ### What I learned:
