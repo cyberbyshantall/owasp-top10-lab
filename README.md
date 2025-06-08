@@ -5,8 +5,8 @@ This repository contains my hands-on practice solving security challenges from t
 ## Challenges Completed
 
 - Score Board Challenge  
-- Login Bypass Challenge  
-- Error Handling Challenge  
+- [Login Bypass Challenge](screenshots/login-bypass.png) 
+- [Error Handling Challenge](screenshots/error-handling.png)
 - [DOM XSS Challenge](screenshots/dom-xss.png)
 
 
