@@ -1,0 +1,6 @@
+## Completed OWASP Juice Shop Challenges
+
+### DOM XSS Challenge
+Successfully triggered a DOM-based XSS alert by manipulating the search bar input.
+
+![DOM XSS Screenshot](screenshots/dom-xss.png)
